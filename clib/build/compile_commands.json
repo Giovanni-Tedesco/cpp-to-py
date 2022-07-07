@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/johntedesco/KDS/cpp-in-python/clib/build",
+  "command": "/usr/bin/clang++  -I/Users/johntedesco/KDS/cpp-in-python/clib/include -I/Users/johntedesco/KDS/cpp-in-python/clib/src -I/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9/include/python3.9 -I/opt/homebrew/include -I/Users/johntedesco/KDS/cpp-in-python/clib/source --std=gnu++11  -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/helloworld.dir/src/cppmath.cpp.o -c /Users/johntedesco/KDS/cpp-in-python/clib/src/cppmath.cpp",
+  "file": "/Users/johntedesco/KDS/cpp-in-python/clib/src/cppmath.cpp"
+}
+]

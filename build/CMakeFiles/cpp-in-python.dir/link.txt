@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcpp-in-python.a "CMakeFiles/cpp-in-python.dir/cpp-in-python.cpp.o"
+/usr/bin/ranlib libcpp-in-python.a

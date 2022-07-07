@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libcppfad.dylib -install_name @rpath/libcppfad.dylib CMakeFiles/cppfad.dir/src/cppmath.cpp.o 

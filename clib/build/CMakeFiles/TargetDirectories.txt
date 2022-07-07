@@ -1,0 +1,5 @@
+/Users/johntedesco/KDS/cpp-in-python/clib/build/CMakeFiles/helloworld.dir
+/Users/johntedesco/KDS/cpp-in-python/clib/build/CMakeFiles/package.dir
+/Users/johntedesco/KDS/cpp-in-python/clib/build/CMakeFiles/package_source.dir
+/Users/johntedesco/KDS/cpp-in-python/clib/build/CMakeFiles/edit_cache.dir
+/Users/johntedesco/KDS/cpp-in-python/clib/build/CMakeFiles/rebuild_cache.dir

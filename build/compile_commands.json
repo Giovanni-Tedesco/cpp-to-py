@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/johntedesco/KDS/cpp-in-python/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -o CMakeFiles/cpp-in-python.dir/cpp-in-python.cpp.o -c /Users/johntedesco/KDS/cpp-in-python/cpp-in-python.cpp",
+  "file": "/Users/johntedesco/KDS/cpp-in-python/cpp-in-python.cpp"
+}
+]
